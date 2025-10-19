@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masoomarezaie" alt="masoomarezaie" /></a> </p>
 
-- 🔭 I’m currently working on [a To do list](https://github.com/MasoomaRezaie/To-Do-List)
+- 🔭 I’m currently working on [To-Do-List](https://github.com/MasoomaRezaie/To-Do-List)
 
 - 🌱 I’m currently learning **React**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MasoomaRezaie](https://github.com/MasoomaRezaie)
 
-- 💬 Ask me about **HTML, CSS, Tailwindcss**
+- 💬 Ask me about **HTML, CSS, JavaScript, Tailwindcss, and React**
 
 - 📫 How to reach me **rezaiemasooma3@gmail.com**
 
@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoomarezaie&show_icons=true&locale=en&layout=compact" alt="masoomarezaie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masoomarezaie&show_icons=true&locale=en" alt="masoomarezaie" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masoomarezaie&show_icons=true&locale=en" alt="MasoomaRezaie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoomarezaie&" alt="masoomarezaie" /></p>
